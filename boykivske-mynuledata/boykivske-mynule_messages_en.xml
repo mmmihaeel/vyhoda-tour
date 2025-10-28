@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Подорож в бойківське минуле]]></data>
+  <data name="en_project_author_name"><![CDATA[Створення віртуальних турів]]></data>
+  <data name="en_project_author_url"><![CDATA[https://3dtour.if.ua]]></data>
+
+
+  <data name="en_panogroup71_title"><![CDATA[Станція вузькоколійки]]></data>
+
+  <data name="en_pano41_title"><![CDATA[Перон станції]]></data>
+  <data name="en_spotpoint144_tooltip"><![CDATA[Підхід до вагону]]></data>
+  <data name="en_pano42_title"><![CDATA[Перед потягом]]></data>
+  <data name="en_spotpoint145_tooltip"><![CDATA[Повернення на перон]]></data>
+  <data name="en_spotpoint146_tooltip"><![CDATA[Вхід у вагон]]></data>
+  <data name="en_pano47_title"><![CDATA[Критий вагон]]></data>
+  <data name="en_spotpoint147_tooltip"><![CDATA[Повернення на перон]]></data>
+  <data name="en_spotpoint148_tooltip"><![CDATA[Відкрита платформа]]></data>
+  <data name="en_spotpoint149_tooltip"><![CDATA[Критий вагон]]></data>
+  <data name="en_spotpoint156_tooltip"><![CDATA[Бойківський побут]]></data>
+  <data name="en_spotpoint187_tooltip"><![CDATA[Бойківська церква]]></data>
+  <data name="en_spotpoint188_tooltip"><![CDATA[Бойківське господарство]]></data>
+  <data name="en_spotpoint1728_tooltip"><![CDATA[Подорож карпатським трамваєм]]></data>
+  <data name="en_pano45_title"><![CDATA[Критий вагон]]></data>
+  <data name="en_spotpoint150_tooltip"><![CDATA[Критий вагон]]></data>
+  <data name="en_pano44_title"><![CDATA[Відкрита платформа]]></data>
+  <data name="en_spotpoint151_tooltip"><![CDATA[Критий вагон]]></data>
+  <data name="en_spotpoint152_tooltip"><![CDATA[Відкрита платформа]]></data>
+  <data name="en_spotpoint796_tooltip"><![CDATA[Подорож карпатським трамваєм]]></data>
+  <data name="en_pano43_title"><![CDATA[Відкрита платформа]]></data>
+  <data name="en_spotpoint153_tooltip"><![CDATA[Відкрита платформа]]></data>
+
+  <data name="en_panogroup59_title"><![CDATA[Бойківський побут]]></data>
+
+  <data name="en_pano356_title"><![CDATA[Бойківський побут]]></data>
+  <data name="en_spotpoint521_tooltip"><![CDATA[Зупинка "Бойківський побут"]]></data>
+  <data name="en_spotpoint522_tooltip"><![CDATA[Повернутись назад]]></data>
+  <data name="en_pano29_title"><![CDATA[Подвір'я хати]]></data>
+  <data name="en_spotpoint157_tooltip"><![CDATA[Назад до вагона]]></data>
+  <data name="en_spotpoint158_tooltip"><![CDATA[До хати]]></data>
+  <data name="en_spotpoint159_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint730_tooltip"><![CDATA[Хата]]></data>
+  <data name="en_pano30_title"><![CDATA[Подвір'я хати]]></data>
+  <data name="en_spotpoint160_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint161_tooltip"><![CDATA[До хати]]></data>
+  <data name="en_spotpoint532_tooltip"><![CDATA[До кузні]]></data>
+  <data name="en_pano50_title"><![CDATA[Подвір'я хати]]></data>
+  <data name="en_spotpoint162_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint163_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint164_tooltip"><![CDATA[Вхід в хату]]></data>
+  <data name="en_spotpoint165_tooltip"><![CDATA[Комора]]></data>
+  <data name="en_spotpoint533_tooltip"><![CDATA[До кузні]]></data>
+  <data name="en_spotpoint752_tooltip"><![CDATA[Комора]]></data>
+  <data name="en_spotpoint2296_tooltip"><![CDATA[Виготовлення гонти]]></data>
+  <data name="en_pano51_title"><![CDATA[Вхід в хату]]></data>
+  <data name="en_spotpoint166_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint167_tooltip"><![CDATA[Подвір'я]]></data>
+  <data name="en_spotpoint168_tooltip"><![CDATA[Комора]]></data>
+  <data name="en_spotpoint212_tooltip"><![CDATA[Сіни]]></data>
+  <data name="en_spotpoint534_tooltip"><![CDATA[До кузні]]></data>
+  <data name="en_pano25_title"><![CDATA[Сіни]]></data>
+  <data name="en_spotpoint169_tooltip"><![CDATA[Вихід]]></data>
+  <data name="en_spotpoint170_tooltip"><![CDATA[Світлиця]]></data>
+  <data name="en_spotpoint733_tooltip"><![CDATA[Терлиця]]></data>
+  <data name="en_spotpoint734_tooltip"><![CDATA[Хомут]]></data>
+  <data name="en_pano26_title"><![CDATA[Світлиця]]></data>
+  <data name="en_spotpoint171_tooltip"><![CDATA[Сіни]]></data>
+  <data name="en_spotpoint735_tooltip"><![CDATA[Піч]]></data>
+  <data name="en_spotpoint736_tooltip"><![CDATA[Глек 3D]]></data>
+  <data name="en_spotpoint736websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/hlechyk.html]]></data>
+  <data name="en_spotpoint736websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint737_tooltip"><![CDATA[Ночва]]></data>
+  <data name="en_spotpoint738_tooltip"><![CDATA[Колиска]]></data>
+  <data name="en_spotpoint747_tooltip"><![CDATA[Мисник]]></data>
+  <data name="en_spotpoint748_tooltip"><![CDATA[Прялка]]></data>
+  <data name="en_spotpoint749_tooltip"><![CDATA[Кужівка]]></data>
+  <data name="en_spotpoint750_tooltip"><![CDATA[Скриня 3D]]></data>
+  <data name="en_spotpoint750websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/skrynya.html]]></data>
+  <data name="en_spotpoint750websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint794_tooltip"><![CDATA[Прядіння і вишивання]]></data>
+  <data name="en_spotpoint2298_tooltip"><![CDATA[Виготовлення одягу]]></data>
+  <data name="en_pano27_title"><![CDATA[Світлиця]]></data>
+  <data name="en_spotpoint739_tooltip"><![CDATA[Колиска]]></data>
+  <data name="en_spotpoint740_tooltip"><![CDATA[Ночва]]></data>
+  <data name="en_spotpoint741_tooltip"><![CDATA[Ліжко]]></data>
+  <data name="en_spotpoint742_tooltip"><![CDATA[Жердка]]></data>
+  <data name="en_spotpoint743_tooltip"><![CDATA[Двійнята 3D]]></data>
+  <data name="en_spotpoint743websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/twins.html]]></data>
+  <data name="en_spotpoint743websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint744_tooltip"><![CDATA[Дійниці скіпці]]></data>
+  <data name="en_spotpoint745_tooltip"><![CDATA[Прялка]]></data>
+  <data name="en_spotpoint746_tooltip"><![CDATA[Кужівка]]></data>
+  <data name="en_spotpoint751_tooltip"><![CDATA[Традиційний жіночий бойківський стрій 3D]]></data>
+  <data name="en_spotpoint751websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/costume.html]]></data>
+  <data name="en_spotpoint751websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2055_tooltip"><![CDATA[Елементи одягу]]></data>
+  <data name="en_pano53_title"><![CDATA[Комора]]></data>
+  <data name="en_spotpoint175_tooltip"><![CDATA[Вихід]]></data>
+  <data name="en_spotpoint753_tooltip"><![CDATA[Лопата]]></data>
+  <data name="en_spotpoint754_tooltip"><![CDATA[Лопата]]></data>
+  <data name="en_spotpoint755_tooltip"><![CDATA[Масниця]]></data>
+  <data name="en_spotpoint756_tooltip"><![CDATA[Кадуб]]></data>
+  <data name="en_spotpoint757_tooltip"><![CDATA[Діжки чебреки]]></data>
+  <data name="en_spotpoint758_tooltip"><![CDATA[Господарська жердка]]></data>
+  <data name="en_pano52_title"><![CDATA[Двір кузні]]></data>
+  <data name="en_spotpoint177_tooltip"><![CDATA[До хати]]></data>
+  <data name="en_spotpoint178_tooltip"><![CDATA[Кузня]]></data>
+  <data name="en_spotpoint179_tooltip"><![CDATA[Трембітар]]></data>
+  <data name="en_spotpoint759_tooltip"><![CDATA[Кузня]]></data>
+  <data name="en_pano31_title"><![CDATA[Вхід до кузні]]></data>
+  <data name="en_spotpoint180_tooltip"><![CDATA[Двір кузні]]></data>
+  <data name="en_spotpoint181_tooltip"><![CDATA[Трембітар]]></data>
+  <data name="en_spotpoint182_tooltip"><![CDATA[Кузня]]></data>
+  <data name="en_pano32_title"><![CDATA[Кузня]]></data>
+  <data name="en_spotpoint184_tooltip"><![CDATA[Вихід]]></data>
+  <data name="en_spotpoint760_tooltip"><![CDATA[Ковадло]]></data>
+  <data name="en_spotpoint761_tooltip"><![CDATA[Піч з горнилом]]></data>
+  <data name="en_spotpoint762_tooltip"><![CDATA[Ковальські лещата]]></data>
+  <data name="en_spotpoint791_tooltip"><![CDATA[Робота коваля]]></data>
+  <data name="en_pano33_title"><![CDATA[Кузня]]></data>
+  <data name="en_spotpoint763_tooltip"><![CDATA[Ковальський міх]]></data>
+  <data name="en_spotpoint764_tooltip"><![CDATA[Піч з горнилом]]></data>
+  <data name="en_spotpoint765_tooltip"><![CDATA[Ковальські лещата]]></data>
+  <data name="en_spotpoint766_tooltip"><![CDATA[Ковадло]]></data>
+  <data name="en_pano38_title"><![CDATA[Трембітар]]></data>
+  <data name="en_spotpoint186_tooltip"><![CDATA[Двір кузні]]></data>
+  <data name="en_spotpoint767_tooltip"><![CDATA[Бойківська трембіта]]></data>
+  <data name="en_spotpoint2288_tooltip"><![CDATA[Виготовлення трембіти]]></data>
+
+  <data name="en_panogroup64_title"><![CDATA[Бойківське господарство]]></data>
+
+  <data name="en_pano357_title"><![CDATA[Бойківське господарство]]></data>
+  <data name="en_spotpoint524_tooltip"><![CDATA[Повернутись назад]]></data>
+  <data name="en_spotpoint525_tooltip"><![CDATA[Зупинка "Бойківське господарство"]]></data>
+  <data name="en_pano37_title"><![CDATA[Полонина]]></data>
+  <data name="en_spotpoint200_tooltip"><![CDATA[Колиба вівчаря]]></data>
+  <data name="en_spotpoint201_tooltip"><![CDATA[Назад до вагона]]></data>
+  <data name="en_spotpoint202_tooltip"><![CDATA[Кошара]]></data>
+  <data name="en_spotpoint203_tooltip"><![CDATA[Пасіка]]></data>
+  <data name="en_spotpoint787_tooltip"><![CDATA[Вівці на полонині]]></data>
+  <data name="en_pano34_title"><![CDATA[Кошара]]></data>
+  <data name="en_spotpoint204_tooltip"><![CDATA[До полонини]]></data>
+  <data name="en_spotpoint773_tooltip"><![CDATA[Кошара]]></data>
+  <data name="en_pano36_title"><![CDATA[Кошара]]></data>
+  <data name="en_spotpoint774_tooltip"><![CDATA[Струнка]]></data>
+  <data name="en_spotpoint789_tooltip"><![CDATA[Доїння овець]]></data>
+  <data name="en_pano40_title"><![CDATA[Колиба вівчаря]]></data>
+  <data name="en_spotpoint207_tooltip"><![CDATA[Виготовлення сиру]]></data>
+  <data name="en_spotpoint208_tooltip"><![CDATA[До полонини]]></data>
+  <data name="en_pano39_title"><![CDATA[Виготовленя сиру]]></data>
+  <data name="en_spotpoint209_tooltip"><![CDATA[Повернутися назад]]></data>
+  <data name="en_spotpoint775_tooltip"><![CDATA[Вівчарська колиба]]></data>
+  <data name="en_spotpoint2295_tooltip"><![CDATA[Виготовлення сиру]]></data>
+  <data name="en_pano28_title"><![CDATA[Пасіка]]></data>
+  <data name="en_spotpoint211_tooltip"><![CDATA[До полонини]]></data>
+  <data name="en_spotpoint776_tooltip"><![CDATA[Кругляки, кадуби]]></data>
+  <data name="en_spotpoint777_tooltip"><![CDATA[Кадуби, дуплянки]]></data>
+  <data name="en_spotpoint778_tooltip"><![CDATA[Дуплянка]]></data>
+  <data name="en_spotpoint779_tooltip"><![CDATA[Дуплянка]]></data>
+  <data name="en_spotpoint1092_tooltip"><![CDATA[Вулик 3D]]></data>
+  <data name="en_spotpoint1092websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/vulyk.html]]></data>
+  <data name="en_spotpoint1092websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2286websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/vulyk.html]]></data>
+  <data name="en_spotpoint2286websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2297_tooltip"><![CDATA[Виготовлення меду]]></data>
+
+  <data name="en_panogroup54_title"><![CDATA[Бойківська церква]]></data>
+
+  <data name="en_pano355_title"><![CDATA[Бойківська церква]]></data>
+  <data name="en_spotpoint361_tooltip"><![CDATA[Зупинка "Бойківська церква"]]></data>
+  <data name="en_spotpoint362_tooltip"><![CDATA[Повернутись назад]]></data>
+  <data name="en_pano24_title"><![CDATA[Подвір'я церкви]]></data>
+  <data name="en_spotpoint191_tooltip"><![CDATA[Назад до вагона]]></data>
+  <data name="en_spotpoint192_tooltip"><![CDATA[Вхід до церкви]]></data>
+  <data name="en_spotpoint768_tooltip"><![CDATA[Церква св. Юра]]></data>
+  <data name="en_pano35_title"><![CDATA[Вхід до церкви]]></data>
+  <data name="en_spotpoint193_tooltip"><![CDATA[Подвір'я церкви]]></data>
+  <data name="en_spotpoint194_tooltip"><![CDATA[Храм вірних]]></data>
+  <data name="en_pano49_title"><![CDATA[Храм вірних]]></data>
+  <data name="en_spotpoint195_tooltip"><![CDATA[Вихід]]></data>
+  <data name="en_pano48_title"><![CDATA[Храм вірних]]></data>
+  <data name="en_pano46_title"><![CDATA[Біля іконостасу]]></data>
+  <data name="en_spotpoint769_tooltip"><![CDATA[Іконостас]]></data>
+  <data name="en_spotpoint2283_tooltip"><![CDATA[Спів хору]]></data>
+
+
+  <data name="en_pano1698_title"><![CDATA[Прядіння і вишивання]]></data>
+  <data name="en_spotpoint1700_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano1704_title"><![CDATA[Доїння овець]]></data>
+  <data name="en_spotpoint1724_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano1705_title"><![CDATA[Робота коваля]]></data>
+  <data name="en_spotpoint1726_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano1706_title"><![CDATA[Вівці на полонині]]></data>
+  <data name="en_spotpoint1725_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano1707_title"><![CDATA[Критий вагон]]></data>
+  <data name="en_spotpoint1730_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano1708_title"><![CDATA[Відкрита платформа]]></data>
+  <data name="en_spotpoint1727_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+  <data name="en_pano2056_title"><![CDATA[Елементи одягу]]></data>
+  <data name="en_spotpoint2058_tooltip"><![CDATA[Закрити перегляд]]></data>
+  <data name="en_spotpoint2067_tooltip"><![CDATA[Чепець]]></data>
+  <data name="en_spotpoint2067websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/chepets.html]]></data>
+  <data name="en_spotpoint2067websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2068_tooltip"><![CDATA[Хустка]]></data>
+  <data name="en_spotpoint2068websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/khustka.html]]></data>
+  <data name="en_spotpoint2068websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2069_tooltip"><![CDATA[Ґорсет]]></data>
+  <data name="en_spotpoint2069websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/korsyk.html]]></data>
+  <data name="en_spotpoint2069websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2070_tooltip"><![CDATA[Нагрудна прикраса]]></data>
+  <data name="en_spotpoint2070websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/lazyk.html]]></data>
+  <data name="en_spotpoint2070websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2071_tooltip"><![CDATA[Сорочка]]></data>
+  <data name="en_spotpoint2071websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/sorochka.html]]></data>
+  <data name="en_spotpoint2071websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2072_tooltip"><![CDATA[Фартух]]></data>
+  <data name="en_spotpoint2072websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/fartukh.html]]></data>
+  <data name="en_spotpoint2072websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2073_tooltip"><![CDATA[Спідниця димка]]></data>
+  <data name="en_spotpoint2073websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/dymka.html]]></data>
+  <data name="en_spotpoint2073websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint2074_tooltip"><![CDATA[Ходаки]]></data>
+  <data name="en_spotpoint2074websiteViewer|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://vyhodaheritage.com.ua/virtualtour/3d/kaptsi.html]]></data>
+  <data name="en_spotpoint2074websiteViewer|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+
+
+  <data name="en_pano2280_title"><![CDATA[Хор]]></data>
+  <data name="en_spotpoint2284_tooltip"><![CDATA[Закрити відео]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_dpadprevSceneTip"><![CDATA[Попередня панорама]]></data>
+  <data name="en_controlBar_dpadnextSceneTip"><![CDATA[Наступна панорама]]></data>
+  <data name="en_controlBar_dpadmoveLeftTip"><![CDATA[Рухати вліво]]></data>
+  <data name="en_controlBar_dpadmoveRightTip"><![CDATA[Рухати вправо]]></data>
+  <data name="en_controlBar_dpadmoveUpTip"><![CDATA[Рухати вгору]]></data>
+  <data name="en_controlBar_dpadmoveDownTip"><![CDATA[Рухати вниз]]></data>
+  <data name="en_controlBar_dpadopenFsTip"><![CDATA[Повноекранний режим]]></data>
+  <data name="en_controlBar_dpadcloseFsTip"><![CDATA[Вийти з повноекранного режиму]]></data>
+  <data name="en_controlBar_dpadautorotateOnTip"><![CDATA[Почати автообертання]]></data>
+  <data name="en_controlBar_dpadautorotateOffTip"><![CDATA[Зупинити автообертання]]></data>
+  <data name="en_controlBar_dpadautotourOnTip"><![CDATA[Почати авто тур]]></data>
+  <data name="en_controlBar_dpadautotourOffTip"><![CDATA[Зупинити авто тур]]></data>
+  <data name="en_controlBar_dpadshowSpotsTip"><![CDATA[Показати хотспоти]]></data>
+  <data name="en_controlBar_dpadhideSpotsTip"><![CDATA[Сховати хотспоти]]></data>
+  <data name="en_controlBar_dpadshareTip"><![CDATA[Поширити тур]]></data>
+  <data name="en_controlBar_dpaddisplayHelpTip"><![CDATA[Показати підказку]]></data>
+  <data name="en_controlBar_dpadhideHelpTip"><![CDATA[Сховати підказку]]></data>
+  <data name="en_controlBar_dpadenterVRTip"><![CDATA[Вімкнути режим VR]]></data>
+  <data name="en_controlBar_dpadenterVRNotTip"><![CDATA[Вимкнути режим VR]]></data>
+  <data name="en_controlBar_dpaddisplayControlsTip"><![CDATA[Показати елементи керування]]></data>
+  <data name="en_controlBar_dpadhideControlsTip"><![CDATA[Сховати елементи керування]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Закрити]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[https://3dtour.if.ua/menu.html]]></data>
+  <data name="en_logotooltipText"><![CDATA[Сайт розробника]]></data>
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[]]></data>
+  <data name="en_gallery14play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery14navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery14navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery14fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery14close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_togglebutton1firsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebutton1secondtooltip"><![CDATA[]]></data>
+  <data name="en_buttontooltip"><![CDATA[]]></data>
+  <data name="en_button1tooltip"><![CDATA[]]></data>
+  <data name="en_gallery15play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery15navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery15navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery15fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery15close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery16play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery16navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery16navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery16fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery16close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery17play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery17navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery17navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery17fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery17close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery18play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery18navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery18navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery18fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery18close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery19play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery19navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery19navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery19fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery19close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery20play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery20navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery20navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery20fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery20close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery21play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery21navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery21navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery21fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery21close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery22play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery22navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery22navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery22fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery22close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery23play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery23navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery23navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery23fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery23close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery24play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery24navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery24navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery24fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery24close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery24picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery24picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery25play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery25navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery25navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery25fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery25close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery26play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery26navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery26navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery26fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery26close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery27play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery27navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery27navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery27fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery27close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery28play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery28navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery28navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery28fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery28close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery29play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery29navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery29navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery29fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery29close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery30play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery30navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery30navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery30fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery30close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery31play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery31navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery31navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery31fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery31close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery32play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery32navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery32navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery32fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery32close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery33play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery33navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery33navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery33fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery33close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery34play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery34navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery34navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery34fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery34close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery35play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery35navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery35navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery35fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery35close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery36play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery36navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery36navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery36fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery36close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery37play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery37navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery37navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery37fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery37close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery38play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery38navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery38navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery38fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery38close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery39play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery39navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery39navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery39fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery39close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery40play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery40navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery40navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery40fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery40close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery41play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery41navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery41navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery41fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery41close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery42play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery42navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery42navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery42fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery42close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery43play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery43navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery43navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery43fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery43close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery44play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery44navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery44navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery44fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery44close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery45play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery45navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery45navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery45fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery45close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery46play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery46navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery46navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery46fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery46close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery47play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery47navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery47navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery47fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery47close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery48play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery48navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery48navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery48fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery48close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery49play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery49navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery49navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery49fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery49close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery50play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery50navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery50navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery50fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery50close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery51play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery51navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery51navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery51fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery51close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery52play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery52navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery52navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery52fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery52close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery53play_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallery53navprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallery53navnext_text"><![CDATA[Next]]></data>
+  <data name="en_gallery53fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery53close_text"><![CDATA[Close]]></data>
+  <data name="en_gallery13picture_title0"><![CDATA[]]></data>
+  <data name="en_gallery13picture_caption0"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_description1display_close_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <data name="en_pano29_description"><![CDATA[<p><font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Довга хата зі с. Шандровець </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">Самбірського</span><span lang="UK" style="font-size: 14pt; line-height: 107%;">р-ну (1909 р.)</span><span lang="UK">&nbsp; &nbsp;<span style="font-size: 14pt; line-height: 107%;"><a href="https://lvivskansen.org/" target="_blank">https://lvivskansen.org/</a>&nbsp; </span></span><span lang="UK" style="font-size: 14pt; line-height: 107%;">Музей народної архітектури та побуту у Львові<o:p></o:p></span></font></p><span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Це приклад так званої «довгої» хати, де під спільним дахом зблоковані житлові і господарськіприміщення (стіни, хата, комора, боїще, стайня і стаєнка).</font></span>]]></data>
+
+  <data name="en_spotpoint730_description"><![CDATA[<p><font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 19.9733px;">&nbsp; Довга хата зі с. Шандровець&nbsp;</span><span lang="UK" style="font-size: 14pt; line-height: 19.9733px;">Самбірського</span><span lang="UK" style="font-size: 14pt; line-height: 19.9733px;">р-ну (1909 р.)</span><span lang="UK">&nbsp; &nbsp;<span style="font-size: 14pt; line-height: 19.9733px;"><a href="https://lvivskansen.org/" target="_blank">https://lvivskansen.org/</a>&nbsp;&nbsp;</span></span><span lang="UK" style="font-size: 14pt; line-height: 19.9733px;">Музей народної архітектури та побуту у Львові<o:p></o:p></span></font></p><span lang="UK" style="font-size: 14pt; line-height: 19.9733px;"><font face="arial, sans-serif">&nbsp; Це приклад так званої «довгої» хати, де під спільним дахом зблоковані житлові і господарські приміщення (стіни, хата, комора, боїще, стайня і стаєнка).</font></span>]]></data>
+
+
+  <data name="en_spotpoint752_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Комора служила для зберігання харчів, посуду, реманенту та різного хатнього начиння. У ній настеляли підлогу й робили стелю, щоб захистити запаси від вологи, холоду та шкідників</font></span>]]></data>
+
+
+  <data name="en_spotpoint733_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Терлиця -</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">це традиційне знаряддя для обробки льону й виготовлення повісма. На неї клали сушений льон, а піднімаючи й опускаючи ручку, терли волокна; добре повісмо йшло на нитку та полотно для одягу й постелі, а з поганого робили верети.</span></font>]]></data>
+  <data name="en_spotpoint734_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="RU" style="line-height: 107%;">&nbsp;&nbsp;</span><span lang="UK" style="line-height: 107%;">Хомут - шийна частина кінської упряжі, через яку вага перевезенного вантажу передається на шию коня.</span></font>]]></data>
+
+  <data name="en_spotpoint735_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Піч - розташовувалася з лівого боку від вхідних дверей і мала опалення «по-чистому». Дим від печі виходив на горище та у сіни, забезпечуючи тепло та вентиляцію в хаті.</font></span>]]></data>
+  <data name="en_spotpoint737_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Ночви -</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">це видовбані з дерева корита, які використовувалися для прання білизни, купання дітей.</span></font>]]></data>
+  <data name="en_spotpoint738_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Колиска</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">висіла над ліжком на міцних мотузках («на воросках»). Колиски були дерев’яні, прямокутної форми, інколи з дещо заокругленим дном.</span></font>]]></data>
+  <data name="en_spotpoint747_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Мисник - це навісна полиця або шафа, яка слугувала для зберігання гончарного посуду.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint748_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Прялка </span><span lang="RU" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> це традиційне знаряддя для ручного прядіння, яке складалося з донця (сидіння), стояка для кріплення куделі та веретена. Вона слугувала для скручування волокон льону, конопель чи вовни в нитку.</span></font>]]></data>
+  <data name="en_spotpoint749_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; "Кужівка" </span><span lang="RU" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> це дерев'яний кілок або частина прядки, на яку намотують прядиво (кужіль) для прядіння ниток з льону, конопель або вовни.</span></font>]]></data>
+
+  <data name="en_spotpoint739_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Колиска</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">висіла над ліжком на міцних мотузках («на воросках»). Колиски були дерев’яні, прямокутної форми, інколи з дещо заокругленим дном.</span></font>]]></data>
+  <data name="en_spotpoint740_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Ночви -</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">це видовбані з дерева корита, які використовувалися для прання білизни, купання дітей.</span></font>]]></data>
+  <data name="en_spotpoint741_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Ліжко або піл для сну</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">- застеляли соломою, поверх якої клали ткану верету. Подушки набивали м’яким сіном</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">- отавою.</span></font>]]></data>
+  <data name="en_spotpoint742_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Жердка </span><span lang="RU" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> це дерев’яна жердина, закріплена над ліжком, довжиною від 2 до 4,5 метрів. На ній вішали щоденний одяг, рушники, а також кріпили мотузки колиски.</span></font>]]></data>
+  <data name="en_spotpoint744_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Дерев’яні дійниці скіпці - місткістю від 7 до 12 літрів, робили зі смерекових або букових клепок і використовували для носіння та зберігання молока.</font></span>]]></data>
+  <data name="en_spotpoint745_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Прялка </span><span lang="RU" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> це традиційне знаряддя для ручного прядіння, яке складалося з донця (сидіння), стояка для кріплення куделі та веретена. Вона слугувала для скручування волокон льону, конопель чи вовни в нитку.</span></font>]]></data>
+  <data name="en_spotpoint746_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; "Кужівка" </span><span lang="RU" style="line-height: 107%;">-</span><span lang="UK" style="line-height: 107%;"> це дерев'яний кілок або частина прядки, на яку намотують прядиво (кужіль) для прядіння ниток з льону, конопель або вовни.</span></font>]]></data>
+
+  <data name="en_spotpoint753_description"><![CDATA[<font face="arial, sans-serif"><font size="4"><span lang="UK" style="line-height: 107%;">&nbsp;&nbsp;</span></font><span lang="UK" style="font-size: 14pt; line-height: 107%;">Дерев’яна лопата - використовували під час приготування хліба</span><span lang="RU" style="font-size: 14pt; line-height: 107%;"> -</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> для засовування тіста в піч та виймання готового хліба.</span></font>]]></data>
+  <data name="en_spotpoint754_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Дерев’яна лопата - використовували під час роботи із зерном. Нею набирали, пересипали або розрівнювали зерно, що полегшувало його зберігання та обробку.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint755_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Масниця, масничка -</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">використовували для ручного збивання вершків з метою отримання масла. Її застосовували в побуті, коли вершки перетворювали на масло завдяки ритмічним рухам спеціальним знаряддям усередині посудини.</span></font>]]></data>
+  <data name="en_spotpoint756_description"><![CDATA[<font face="arial, sans-serif" size="4"><span lang="UK" style="line-height: 107%;">&nbsp; Кадуб -</span><span lang="UK" style="line-height: 107%;"> </span><span lang="UK" style="line-height: 107%;">велика діжка для зберігання м'яса, сала.</span></font>]]></data>
+  <data name="en_spotpoint757_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Діжки чебреки - це дерев’яні ємності для зберігання рідини або сипких продуктів, наприклад, молока, води чи зерна. Виготовляли їх із товстих дощок, скріплених обручами, щоб були міцними та герметичними.</font></span>]]></data>
+  <data name="en_spotpoint758_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Господарська жердка - на неї навішували у коморі тканини, верети, конопляні і льняні нитки, лікарські трави тощо.</font></span>]]></data>
+
+  <data name="en_spotpoint759_description"><![CDATA[<p><span lang="UK" style="font-size:14.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-bidi-font-weight:bold">&nbsp; </span><font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">Кузня зі с.Тур’є Самбірського р-ну (1870 р.) &nbsp;</span><b><span lang="UK" style="font-size: 14pt; line-height: 107%;"></span></b><span lang="UK"><span style="font-size: 14pt; line-height: 107%;"><a href="https://lvivskansen.org/" target="_blank">https://lvivskansen.org/</a>&nbsp;&nbsp;</span></span><span lang="UK" style="font-size: 14pt; line-height: 107%;">Музей н</span><span lang="UK" style="line-height: 107%;"><font size="4">ародної архітектури</font></span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> та побуту у Львові<o:p></o:p></span></font></p><p><span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; ЇЇ будівля – добротний смерековий зруб під двосхилим дахом, покритим дранкою, над правим схилом якого піднімається кам’яний димар.</font><font face="Times New Roman, serif"><o:p></o:p></font></span></p>]]></data>
+
+
+  <data name="en_spotpoint760_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Ковадло -</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">це масивний металевий блок, який використовується як опора для обробки металу, особливо при куванні. Його основне призначення - слугувати твердою поверхнею, на якій коваль може формувати металеві предмети за допомогою молота.</span></font>]]></data>
+  <data name="en_spotpoint761_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Піч з горнилом - це металева або цегляна піч, усередині якої є горнило (вогнетривка камера), де розпалюють вогонь і підтримують високу температуру для плавлення чи нагрівання металу.</font></span>]]></data>
+  <data name="en_spotpoint762_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Ковальські лещата - це інструмент, яким у кузні міцно затискають метал, щоб його можна було кувати, пиляти або свердлити, не тримаючи руками.</font></span>]]></data>
+
+  <data name="en_spotpoint764_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Піч з горнилом - це металева або цегляна піч, усередині якої є горнило (вогнетривка камера), де розпалюють вогонь і підтримують високу температуру для плавлення чи нагрівання металу.</font></span>]]></data>
+  <data name="en_spotpoint765_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Ковальські лещата - це інструмент, яким у кузні міцно затискають метал, щоб його можна було кувати, пиляти або свердлити, не тримаючи руками.</font></span>]]></data>
+  <data name="en_spotpoint766_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Ковадло -</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">це масивний металевий блок, який використовується як опора для обробки металу, особливо при куванні. Його основне призначення - слугувати твердою поверхнею, на якій коваль може формувати металеві предмети за допомогою молота.</span></font>]]></data>
+
+  <data name="en_spotpoint767_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Бойківська трембіта (або трумбета) відрізнялася від гуцульської більшою шириною на кінці — її діаметр міг сягати більше 10 см. </span><span lang="RU" style="font-size: 14pt; line-height: 107%;">Вона мала характерне звучання, яке використовували в горах для сповіщень та оголошень важливих подій. Її довжина могла сягати трьох метрів, що робить трембіту одним із найбільших духових інструментів.</span></font>]]></data>
+
+
+
+
+
+  <data name="en_spotpoint773_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Кошара це огороджене місце або приміщення для випасу й утримання овець та іншої дрібної худоби.</font></span>]]></data>
+
+  <data name="en_spotpoint774_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">Струнка - місце для доїння овець.</font></span>]]></data>
+
+
+  <data name="en_spotpoint775_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Вівчарська колиба - дерев'яна споруда, що слугує сезонним житлом для пастухів у горах (на полонинах) під час випасання худоби.&nbsp;</font></span>]]></data>
+
+  <data name="en_spotpoint776_description"><![CDATA[<p><span style="font-family: arial, sans-serif; font-size: 14pt; line-height: 19.9733px;">&nbsp; Кадуби, дуплянки, колоди, кругляки або просто пні — це видовбані вулики з колод дуба, липи, смереки чи верби. Розвішувались на деревах, для приманювання диких роїв.</span></p><p><a href="https://lvivskansen.org/" target="_blank" style="font-family: arial, sans-serif; font-size: 18.6667px; line-height: 19.9733px;">https://lvivskansen.org/</a><span style="font-family: arial, sans-serif; font-size: 18.6667px; line-height: 19.9733px;">&nbsp; Музей народної архітектури та побуту у Львові</span></p>]]></data>
+  <data name="en_spotpoint777_description"><![CDATA[<p><span style="font-family: arial, sans-serif; font-size: 14pt; line-height: 19.9733px;">&nbsp; Кадуби, дуплянки, колоди, кругляки або просто пні — це видовбані вулики з колод дуба, липи, смереки чи верби. Розвішувались на деревах, для приманювання диких роїв.</span></p><p><a href="https://lvivskansen.org/" target="_blank" style="font-family: arial, sans-serif; font-size: 18.6667px; line-height: 19.9733px;">https://lvivskansen.org/</a><span style="font-family: arial, sans-serif; font-size: 18.6667px; line-height: 19.9733px;">&nbsp; Музей народної архітектури та побуту у Львові</span></p>]]></data>
+  <data name="en_spotpoint778_description"><![CDATA[<span style="font-family: arial, sans-serif; font-size: 18.6667px; line-height: 19.9733px;">&nbsp; Дуплянка - дерев’яні довбані вулики, які накривали солом’яним чи дерев’яним дашком.</span>]]></data>
+  <data name="en_spotpoint779_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Дуплянка - дерев’яні довбані вулики, які накривали солом’яним чи дерев’яним дашком.</font></span>]]></data>
+  <data name="en_spotpoint2286_description"><![CDATA[<div><a href="https://www.boykomuseum.com/" target="_blank">https://www.boykomuseum.com/</a></div><div>&nbsp; &nbsp; &nbsp; &nbsp; Слов’янський вулик — прямокутний рамковий вулик-стояк, винайдений наприкінці XIX століття галицьким пасічником Теофілом Цєсєльським. Складався з корпусу та двосхилого даху, оснащений довгими вузькими рамками, на яких бджоли будували воскові комірки для зберігання меду, пилку та вирощування личинок. Долинський краєзнавчий музей "Бойківщина" Тетяни і Омельяна Антоновичів.</div>]]></data>
+
+
+
+
+  <data name="en_spotpoint768_description"><![CDATA[<p><font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Церква св. Юра збудована у XV ст., остаточного вигляду набула 1678 р.</span><b><span lang="UK" style="font-size: 14pt; line-height: 107%;"> &nbsp;</span></b><span lang="UK"><span style="font-size: 14pt; line-height: 107%;"><a href="https://drohobych-museum.com/" target="_blank">https://drohobych-museum.com/</a>&nbsp;&nbsp;</span></span><span lang="UK" style="font-size: 14pt; line-height: 107%;">Музей-церква св. Юра — Дрогобич.</span></font></p><span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; Церква триверха, тридільна, має дві криті галереї внизу та на другому ярусі, де вхід у каплицю Введення Богородиці у храм. Окрасою церкви також є високий п’ятиярусний іконостас 1659–1669 рр та стінопис бл. 1659–1710‑х рр.</font></span>]]></data>
+
+
+
+  <data name="en_spotpoint772_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">Чудотворна ікона Марія Сніжна II половини XVII ст.</font></span>]]></data>
+
+  <data name="en_spotpoint769_description"><![CDATA[<font face="arial, sans-serif"><span lang="UK" style="font-size: 14pt; line-height: 107%;">&nbsp; Високий п’ятиярусний іконостас церкви створений між 1659 та 1669 рр.</span><span lang="UK" style="font-size: 14pt; line-height: 107%;"> </span><span lang="UK" style="font-size: 14pt; line-height: 107%;">Цокольні ікони є сюжетними, вирізняються рідкісною іконографією: Лот з дочками, Поклоніння іконі Богородиці (сцена з Акафісту), Апостол Петро на о. Мілет. Намісна ікона Пресвятої Трійці, що розташована зліва в іконостасі та храмова ікона св. Юрія Змієборця (справа) були створені у 1662 р., а намісні ікони Христа та Богородиці замовлені братством у 1663 р.</span></font>]]></data>
+  <data name="en_spotpoint770_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">Двобічна процесійна ікона зі св. Юрієм Змієборцем 1740р.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint771_description"><![CDATA[<span lang="UK" style="font-size: 14pt; line-height: 107%;"><font face="arial, sans-serif">&nbsp; У наві перед царськими вратами розміщено тетрапод із мальованою сценою Коронування Богородиці 18 ст.</font></span>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
