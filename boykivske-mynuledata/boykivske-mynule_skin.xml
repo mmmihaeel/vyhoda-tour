@@ -1948,7 +1948,6 @@ resumeautorotation(forcehotspot);
 <!-- id : contextmenu -->
 <!-- ********** -->
   <contextmenu fullscreen="false" versioninfo="false" touch="false">
-    <item name="author" onclick="getmessage(urltoopen,project_author_url);openurl(get(urltoopen),_blank);" />
     <item name="fullscreenentry" onclick="enterFullscreen();
 " separator="true"/>
   </contextmenu>
@@ -1963,7 +1962,6 @@ resumeautorotation(forcehotspot);
     devices="html5"
     />
   <action name="updateContextMenu">
-    getmessage(contextmenu.item[author].caption, project_author_name);
     if (device.fullscreensupport,
       if(tour_fullscreen,
         getmessage(contextmenu.item[fullscreenentry].caption, contextmenucloseFsLabel);
