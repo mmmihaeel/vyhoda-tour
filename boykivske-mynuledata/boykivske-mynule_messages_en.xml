@@ -6,8 +6,8 @@
 <!-- ************************ -->
 
   <data name="en_project_title"><![CDATA[Подорож в бойківське минуле]]></data>
-  <data name="en_project_author_name"><![CDATA[Створення віртуальних турів]]></data>
-  <data name="en_project_author_url"><![CDATA[https://3dtour.if.ua]]></data>
+  <data name="en_project_author_name"><![CDATA[]]></data>
+  <data name="en_project_author_url"><![CDATA[]]></data>
 
 
   <data name="en_panogroup71_title"><![CDATA[Станція вузькоколійки]]></data>
@@ -272,8 +272,6 @@
   <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
   <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
   <data name="en_socialShareclose_text"><![CDATA[Закрити]]></data>
-  <data name="en_logowebsiteurl"><![CDATA[https://3dtour.if.ua/menu.html]]></data>
-  <data name="en_logotooltipText"><![CDATA[Сайт розробника]]></data>
   <data name="en_togglebuttonfirsttooltip"><![CDATA[]]></data>
   <data name="en_togglebuttonsecondtooltip"><![CDATA[]]></data>
   <data name="en_gallery14play_text"><![CDATA[Play / Pause]]></data>
