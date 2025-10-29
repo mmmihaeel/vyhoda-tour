@@ -1878,49 +1878,13 @@ openSpotDescription_description(get(descriptionid));
            tag="point"
            descriptionid=""
            linktarget="pano52"
-           onclick="onclickspotpoint533"
-           tooltip="spotpoint533_tooltip"
-           />
-  <hotspot name="spotpoint533" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint533" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint533">
-  onout();
-        mainloadscene(pano52);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
-
-
-  </action>
 
 
 
 
 
-  <hotspot name="spotpoint752"
-           ath="139.034514" atv="-7.880217"
-           style="Icon1"
-           tag="point"
-           descriptionid="spotpoint752_description"
-           onclick="onclickspotpoint752"
-           tooltip="spotpoint752_tooltip"
-           />
-  <hotspot name="spotpoint752" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint752" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint752">
-  
-openSpotDescription_description(get(descriptionid));
-
-
-  </action>
-
-
-
-
-
-  <hotspot name="spotpoint2296"
-           ath="68.336270" atv="-21.092039"
-           style="IconВиготовленнягонти"
-           tag="point"
-           descriptionid=""
-           onclick="onclickspotpoint2296"
+  set(hotspot[spotpoint752].visible, true);
+  <events name="pano50stopanimatedspots" onremovepano="stopspotanimation(spotpoint162);stopspotanimation(spotpoint163);stopspotanimation(spotpoint164);stopspotanimation(spotpoint165);stopspotanimation(spotpoint533);stopspotanimation(spotpoint752);" />
            tooltip="spotpoint2296_tooltip"
            />
   <hotspot name="spotpoint2296" devices="flash" zorder="3"/>
@@ -3680,12 +3644,48 @@ openSpotDescription_description(get(descriptionid));
 
 
 
-  <hotspot name="spotpoint179"
-           ath="104.155927" atv="15.086696"
-           style="Iconвверх"
+
+  <hotspot name="spotpoint2296"
+           ath="-5.000000" atv="-14.255281"
+           style="IconВиготовленнягонти"
            tag="point"
            descriptionid=""
-           linktarget="pano38"
+           onclick="onclickspotpoint2296"
+           tooltip="spotpoint2296_tooltip"
+           />
+  <hotspot name="spotpoint2296" devices="flash" zorder="3"/>
+  <hotspot name="spotpoint2296" devices="html5" zorder="3" zorder2="1"/>
+  <action name="onclickspotpoint2296">
+
+displayVideo(%FIRSTXML%/spots/gonta.mp4
+             ,center
+             ,0
+             ,0
+             ,80%
+             ,prop
+             ,false
+             ,false
+             ,''
+             ,true
+             ,true
+             ,true,000000,0.80000000000000004
+             );
+
+
+  </action>
+
+
+
+
+    set(hotspot[spotpoint2296].visible, false);
+
+
+
+
+
+
+  set(hotspot[spotpoint2296].visible, true);
+  <events name="pano52stopanimatedspots" onremovepano="stopspotanimation(spotpoint177);stopspotanimation(spotpoint178);stopspotanimation(spotpoint179);stopspotanimation(spotpoint759);stopspotanimation(spotpoint2296);" />
            onclick="onclickspotpoint179"
            tooltip="spotpoint179_tooltip"
            />
