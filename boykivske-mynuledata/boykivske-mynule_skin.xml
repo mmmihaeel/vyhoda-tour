@@ -1948,7 +1948,6 @@ resumeautorotation(forcehotspot);
 <!-- id : contextmenu -->
 <!-- ********** -->
   <contextmenu fullscreen="false" versioninfo="false" touch="false">
-    <item name="author" onclick="getmessage(urltoopen,project_author_url);openurl(get(urltoopen),_blank);" />
     <item name="fullscreenentry" onclick="enterFullscreen();
 " separator="true"/>
   </contextmenu>
@@ -1963,7 +1962,6 @@ resumeautorotation(forcehotspot);
     devices="html5"
     />
   <action name="updateContextMenu">
-    getmessage(contextmenu.item[author].caption, project_author_name);
     if (device.fullscreensupport,
       if(tour_fullscreen,
         getmessage(contextmenu.item[fullscreenentry].caption, contextmenucloseFsLabel);
@@ -2089,49 +2087,6 @@ resumeautorotation(forcehotspot);
 	
 	changetourlanguage="changeLanguage_socialShare();"
 	/>
-
-<!-- ********** -->
-<!-- Logo -->
-<!-- id : logo -->
-<!-- ********** -->
-
-
-  <hotspot ath="0" atv="90"
-         zorder="0"
-         name="logo"
-         keep="true"
-         visible="false"
-         capture="false"
-
-			tooltip="logotooltipText"
-			onhover="showTooltip('hotspot');"
-			onout="hideTooltip();"
-         url="%FIRSTXML%/graphics/logo/_-logo-sq_300.png" 
-         onclick="
-getmessage(urltoopen,logowebsiteurl);openurl(get(urltoopen),_blank);
-"
-
-         width="50"
-         height="prop"
-
-         />
-
-  <events name="logoevents" 
-    onTourStart="showlogo();"
-    keep="true" />
-
-  <action name="hidelogo">
-    set(hotspot[logo].visible, false);
-  </action>
-  <action name="showlogo">
-      set(hotspot[logo].visible, true);
-  </action>
-
-
-
-  <events name="logoshowevents" onremovepano="hidelogo" onPanoStart="showlogo" keep="true"/>
-
-
 
 <!-- ********** -->
 <!-- Toggle Button -->
