@@ -272,8 +272,6 @@
   <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
   <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
   <data name="en_socialShareclose_text"><![CDATA[Закрити]]></data>
-  <data name="en_logowebsiteurl"><![CDATA[https://3dtour.if.ua/menu.html]]></data>
-  <data name="en_logotooltipText"><![CDATA[Сайт розробника]]></data>
   <data name="en_togglebuttonfirsttooltip"><![CDATA[]]></data>
   <data name="en_togglebuttonsecondtooltip"><![CDATA[]]></data>
   <data name="en_gallery14play_text"><![CDATA[Play / Pause]]></data>
