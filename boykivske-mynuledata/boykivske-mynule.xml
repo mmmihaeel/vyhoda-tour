@@ -1850,83 +1850,16 @@ openSpotDescription_description(get(descriptionid));
 
 
 
-  <hotspot name="spotpoint165"
-           ath="130.129924" atv="8.323742"
-           style="Iconвверх"
-           tag="point"
-           descriptionid=""
-           linktarget="pano53"
-           onclick="onclickspotpoint165"
-           tooltip="spotpoint165_tooltip"
+    onout();
+    mainloadscene(pano52);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
            />
-  <hotspot name="spotpoint165" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint165" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint165">
-  onout();
-        mainloadscene(pano53);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
-
-
-  </action>
-
-
-
-
-
-  <hotspot name="spotpoint533"
-           ath="-176.883117" atv="10.404536"
-           style="Iconвверх"
-           tag="point"
-           descriptionid=""
-           linktarget="pano52"
-           onclick="onclickspotpoint533"
-           tooltip="spotpoint533_tooltip"
-           />
-  <hotspot name="spotpoint533" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint533" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint533">
-  onout();
-        mainloadscene(pano52);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
-
-
-  </action>
-
-
-
-
-
-  <hotspot name="spotpoint752"
-           ath="139.034514" atv="-7.880217"
-           style="Icon1"
-           tag="point"
-           descriptionid="spotpoint752_description"
-           onclick="onclickspotpoint752"
-           tooltip="spotpoint752_tooltip"
-           />
-  <hotspot name="spotpoint752" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint752" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint752">
-  
-openSpotDescription_description(get(descriptionid));
-
-
-  </action>
-
-
-
-
-
-  <hotspot name="spotpoint2296"
-           ath="68.336270" atv="-21.092039"
-           style="IconВиготовленнягонти"
-           tag="point"
-           descriptionid=""
-           onclick="onclickspotpoint2296"
-           tooltip="spotpoint2296_tooltip"
-           />
-  <hotspot name="spotpoint2296" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint2296" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint2296">
-  
+    openSpotDescription_description(get(descriptionid));
+    set(hotspot[spotpoint162].visible, true);
+    set(hotspot[spotpoint163].visible, true);
+    set(hotspot[spotpoint164].visible, true);
+    set(hotspot[spotpoint165].visible, true);
+    set(hotspot[spotpoint533].visible, true);
+    set(hotspot[spotpoint752].visible, true);
 displayVideo(%FIRSTXML%/spots/gonta.mp4
              ,center
              ,0
@@ -3680,22 +3613,38 @@ openSpotDescription_description(get(descriptionid));
 
 
 
-  <hotspot name="spotpoint179"
-           ath="104.155927" atv="15.086696"
-           style="Iconвверх"
+
+  <hotspot name="spotpoint2296"
+           ath="-5.000000" atv="-14.255281"
+           style="IconВиготовленнягонти"
            tag="point"
            descriptionid=""
-           linktarget="pano38"
-           onclick="onclickspotpoint179"
-           tooltip="spotpoint179_tooltip"
+           onclick="onclickspotpoint2296"
+           tooltip="spotpoint2296_tooltip"
            />
-  <hotspot name="spotpoint179" devices="flash" zorder="3"/>
-  <hotspot name="spotpoint179" devices="html5" zorder="3" zorder2="1"/>
-  <action name="onclickspotpoint179">
-  onout();
-        mainloadscene(pano38);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+  <hotspot name="spotpoint2296" devices="flash" zorder="3"/>
+  <hotspot name="spotpoint2296" devices="html5" zorder="3" zorder2="1"/>
+  <action name="onclickspotpoint2296">
 
+    displayVideo(%FIRSTXML%/spots/gonta.mp4
+                 ,center
+                 ,0
+                 ,0
+                 ,80%
+                 ,prop
+                 ,false
+                 ,false
+                 ,''
+                 ,true
+                 ,true
+                 ,true,000000,0.80000000000000004
+                 );
 
+    set(hotspot[spotpoint177].visible, true);
+    set(hotspot[spotpoint178].visible, true);
+    set(hotspot[spotpoint179].visible, true);
+    set(hotspot[spotpoint759].visible, true);
+    set(hotspot[spotpoint2296].visible, true);
   </action>
 
 

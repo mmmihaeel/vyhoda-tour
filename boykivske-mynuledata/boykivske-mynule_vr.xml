@@ -2140,7 +2140,7 @@
 
 
   </action>
-  <events name="pano50stopanimatedspots" onremovepano="stopspotanimation(spotpoint162);stopspotanimation(spotpoint163);stopspotanimation(spotpoint164);stopspotanimation(spotpoint165);stopspotanimation(spotpoint533);stopspotanimation(spotpoint752);stopspotanimation(spotpoint2296);" />
+  <events name="pano50stopanimatedspots" onremovepano="stopspotanimation(spotpoint162);stopspotanimation(spotpoint163);stopspotanimation(spotpoint164);stopspotanimation(spotpoint165);stopspotanimation(spotpoint533);stopspotanimation(spotpoint752);" />
 
 
   <action name="showpanospotsaction">
