@@ -1,0 +1,54 @@
+html[lang$="-CA"]
+  .megamenu-navigation
+  .megamenu-submenu-item
+  > .component-content
+  > .paragraphSystem
+  > .box
+  > .component-content
+  .paragraphSystem {
+  display: flex;
+}
+
+html[lang$="-CA"]
+  body.page-products
+  .product-tabs.yellow-tabs
+  > .component-content
+  > .tabs-nav
+  > .tabs-nav-list
+  > .tabs-nav-item.is-active
+  h2 {
+  outline: none !important;
+  border: none !important;
+}
+
+html[lang$="-CA"]
+  body.page-products
+  .product-tabs.yellow-tabs
+  > .component-content
+  > .tabs-nav
+  > .tabs-nav-list
+  > .tabs-nav-item.is-active
+  a {
+  outline: none !important;
+  border: none !important;
+}
+
+html[lang$="-ca" i]
+  body.page-products
+  .product-tabs
+  > .component-content
+  > .tabs-nav
+  > .tabs-nav-list
+  > .tabs-nav-item
+  a:focus,
+html[lang$="-ca" i]
+  body.page-products
+  .product-tabs
+  > .component-content
+  > .tabs-nav
+  > .tabs-nav-list
+  > .tabs-nav-item
+  a:focus-visible {
+  outline: none !important;
+  border: none !important;
+}
