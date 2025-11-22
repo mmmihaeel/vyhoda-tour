@@ -7322,13 +7322,13 @@
        video="true"
        onstart="videointerface_onSceneStart();"
        scenevideourl="%FIRSTXML%/pano_1708/tramway28k_for_process_8k_360_final_injected_1.mp4"
-       scenevideolowresurl=""
+       scenevideolowresurl="%FIRSTXML%/pano_1708/tramway_carpathian_ios_low.mp4"
        scenevideoloop="true"
        scenevideoposterurl="%FIRSTXML%/pano_1708/frame.jpg"
        scenevideolowresposterurl="%FIRSTXML%/pano_1708/framelowres.jpg"
        scenevideopausedonstart="false"
        hasiphonesound="false"
-       scenevideomute="false"
+       scenevideomute="true"
        scenevideoendaction="false"
        seen="false">
     <autorotate horizon="0.000000" tofov="80.000000" waittime="2" speed="5"/>

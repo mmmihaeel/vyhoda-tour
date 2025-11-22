@@ -3,3 +3,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.glb filter=lfs diff=lfs merge=lfs -text
+boykivske-mynuledata/pano_1708/tramway_carpathian_ios_low.mp4 -filter -diff -merge
+

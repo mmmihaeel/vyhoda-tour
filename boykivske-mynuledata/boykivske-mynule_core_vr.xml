@@ -1132,17 +1132,26 @@ posterurl="%FIRSTXML%/pano_1698/frame.jpg"
 					stopdelayedcall(videointerface_video_call);
 
 					events.dispatch(videointerfaceready);
-					if(scene[get(xml.scene)].scenevideopausedonstart OR ((device.android OR device.chrome OR device.safari OR device.iphone) AND videointerface_firstvideoscene),
-						if(videointerface_autostart !== true,
-	            if(videoscenestarttime GT 0,
-	              plugin[get(videointerface_video)].seek(videoscenestarttime);
-	              set(videoscenestarttime, 0);
-	            );
-							plugin[get(videointerface_video)].play();
-							delayedcall(0,plugin[get(videointerface_video)].pause(););
-						,
-							plugin[get(videointerface_video)].pause();
-						);
+                                        if(scene[get(xml.scene)].scenevideopausedonstart OR ((device.android OR device.chrome OR device.safari OR device.iphone) AND videointerface_firstvideoscene),
+                                                if(videointerface_autostart !== true,
+                    if(videoscenestarttime GT 0,
+                      plugin[get(videointerface_video)].seek(videoscenestarttime);
+                      set(videoscenestarttime, 0);
+                    );
+                                                        if(device.iphone OR (device.safari AND (device.mobile OR device.tablet)),
+                                                                if(scene[get(xml.scene)].scenevideomute,
+                                                                        plugin[get(videointerface_video)].play();
+                                                                        delayedcall(0,plugin[get(videointerface_video)].pause(););
+                                                                ,
+                                                                        plugin[get(videointerface_video)].pause();
+                                                                );
+                                                        ,
+                                                                plugin[get(videointerface_video)].play();
+                                                                delayedcall(0,plugin[get(videointerface_video)].pause(););
+                                                        );
+                                                ,
+                                                        plugin[get(videointerface_video)].pause();
+                                                );
 						set(scene[get(xml.scene)].scenevideopausedonstart, false);
 					,
 	          if(videoscenestarttime GT 0,
